@@ -1,3 +1,7 @@
+#### Deployed Vercel page:
+https://cookie-stand-admin-jjdbl1iw7-shanjiang1911.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
